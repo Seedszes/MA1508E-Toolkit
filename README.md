@@ -82,7 +82,7 @@ MA1508E_Toolkit
 - Solve least-squares problems.
 - Check whether a matrix is orthogonal.
 
-### Chapter 6: Eigenvectors, Eigenvalues
+### Chapter 6: Eigenvectors, Eigenvalues & Diagonalization
 
 - Find eigenvalues and eigenvectors.
 - Report algebraic and geometric multiplicities.
