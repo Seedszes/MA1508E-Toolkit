@@ -38,6 +38,55 @@ MA1508E_Toolkit
 6. Follow the prompts to enter matrices, vectors, or symbolic expressions.
 7. After each operation, press Enter to return to the main menu.
 8. Enter `0` to quit.
+```matlab
+╔══════════════════════════════════════════════════════╗
+║      MA1508E Complete Toolkit — All 7 Chapters       ║
+╠══════════════════════════════════════════════════════╣
+║  CHAPTER 1 — Linear Systems                          ║
+║    1.  Row reduce to RREF                            ║
+║    2.  Solve linear system Ax = b                    ║
+║    3.  Symbolic RREF / consistency conditions        ║
+╠══════════════════════════════════════════════════════╣
+║  CHAPTER 2 — Matrix Algebra                          ║
+║    4.  Matrix operations (add / multiply / transpose)║
+║    5.  Matrix inverse A⁻¹                            ║
+║    6.  Symbolic inverse and invertibility            ║
+║    7.  Determinant                                   ║
+╠══════════════════════════════════════════════════════╣
+║  CHAPTERS 3–4 — Vector Spaces & Subspaces            ║
+║    8.  Check span relations between S and T          ║
+║    9.  Check linear independence of vector set       ║
+║   10.  Four fundamental subspaces                    ║
+║   11.  Basis and dimension of a subspace             ║
+║   12.  Rank–Nullity check                            ║
+║   26.  Check if a set is a subspace                  ║
+║   27.  General vector from basis matrix              ║
+║   28.  Intersection of two subspaces                 ║
+╠══════════════════════════════════════════════════════╣
+║  CHAPTER 5 — Orthogonality                           ║
+║   13.  Gram–Schmidt orthogonalisation                ║
+║   14.  Orthogonal projection onto a subspace         ║
+║   15.  General form of orthogonal projection         ║
+║   16.  Least squares solution of Ax = b              ║
+║   17.  Check if matrix is orthogonal                 ║
+╠══════════════════════════════════════════════════════╣
+║  CHAPTER 6 — Eigenanalysis                           ║
+║   18.  Eigenvalues, eigenvectors & multiplicities    ║
+║   19.  Diagonalise A = PDP⁻¹                         ║
+║   20.  Orthogonally diagonalise (symmetric A)        ║
+║   21.  Matrix power Aᵏ via diagonalisation           ║
+║   22.  Markov chain — steady-state vector            ║
+║   25.  Characteristic polynomial linear factors      ║
+╠══════════════════════════════════════════════════════╣
+║  CHAPTER 7 — Linear ODE Systems                      ║
+║   23.  Solve y'(t) = Ay(t) [general + IVP]           ║
+║   24.  Higher-order constant-coefficient ODE         ║
+╠══════════════════════════════════════════════════════╣
+║   0.  Quit                                           ║
+╚══════════════════════════════════════════════════════╝
+Enter choice (0 to quit): 
+```
+
 
 ## Features
 
